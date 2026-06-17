@@ -1,0 +1,6 @@
+risk_id,risk_name,description,likelihood,impact,mitigation,owner
+R-001,Hallucination,Assistant provides unsupported details when source material is missing,Medium,High,Require source-grounded answers and refusal when evidence is missing,AI Product Owner
+R-002,Overcommitment,Assistant suggests guarantees or promises outside approved process,Low,High,Add guardrail language and human review for sensitive cases,Business Owner
+R-003,Free-form interpretation,Assistant interprets ambiguous prompts too broadly,Medium,Medium,Test ambiguous prompts and require clarifying questions,AI Governance Lead
+R-004,Maintenance drift,Assistant content becomes outdated as procedures change,Medium,Medium,Set review cadence and content owner,Knowledge Manager
+R-005,Compliance sensitivity,Assistant gives guidance that should require review,Low,High,Route high-risk topics to human reviewer,Compliance Partner

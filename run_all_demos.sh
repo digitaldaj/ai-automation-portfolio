@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+
+python3 project_02_teams_backfill_recovery/src/backfill_recovery.py
+python3 project_03_ticket_classification_and_reporting/src/classify_tickets.py
+python3 project_04_responsible_ai_assistant_guardrails/src/evaluate_guardrails.py
+python3 project_05_automation_use_case_intake/src/prioritize_use_cases.py

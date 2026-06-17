@@ -1,0 +1,6 @@
+message_id,conversation_id,sent_at,sender_email,sender_name,manager_email,body_html,is_reply,channel
+m-1001,c-01,2026-03-01T09:15:00,agent.one@example.com,Agent One,manager.alpha@example.com,"<p>Unlock complete for synthetic request.</p>",false,Escalation Support
+m-1002,c-01,2026-03-01T09:18:00,agent.two@example.com,Agent Two,manager.beta@example.com,"<div>Payment review needed &amp; customer waiting.</div>",false,Escalation Support
+m-1003,c-02,2026-03-01T09:20:00,agent.three@example.com,Agent Three,,"<p>Thread reply - should be excluded.</p>",true,Escalation Support
+m-1004,c-03,2026-03-02T10:00:00,agent.four@example.com,Agent Four,manager.alpha@example.com,"<p>Callback requested for synthetic escalation.</p>",false,Escalation Support
+m-1005,c-04,2026-03-02T11:30:00,agent.five@example.com,Agent Five,manager.gamma@example.com,"<p>Compliance review follow-up completed.</p>",false,Escalation Support

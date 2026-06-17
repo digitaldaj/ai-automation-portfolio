@@ -1,0 +1,2 @@
+# This portfolio intentionally uses Python standard-library modules only.
+# Optional: install pytest if you prefer pytest, but built-in unittest works.

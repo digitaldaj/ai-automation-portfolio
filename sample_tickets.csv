@@ -1,0 +1,9 @@
+ticket_id,created_month,description
+T-001,2026-01,"Customer needs card unlock to complete payment."
+T-002,2026-01,"EFT payment error and biller mismatch."
+T-003,2026-02,"High risk compliance exception needs review."
+T-004,2026-02,"Customer requested callback after cancellation confusion."
+T-005,2026-02,"System access issue, user cannot view account."
+T-006,2026-03,"Unlock confirmed. Payment can now be processed."
+T-007,2026-03,"Cancellation follow-up needed with ownership review."
+T-008,2026-03,"General documentation request."
