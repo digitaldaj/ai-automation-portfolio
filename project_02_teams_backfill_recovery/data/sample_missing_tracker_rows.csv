@@ -1,0 +1,6 @@
+tracker_id,message_id,logged_at,sender_name,manager_email,content,recovery_status
+trk-001,m-1001,2026-03-01T09:16:00,,,,Needs Recovery
+trk-002,m-1002,2026-03-01T09:19:00,,,,Needs Recovery
+trk-003,m-1003,2026-03-01T09:21:00,,,,Needs Recovery
+trk-004,m-1004,2026-03-02T10:01:00,,,,Needs Recovery
+trk-005,m-9999,2026-03-02T10:02:00,,,,Needs Recovery

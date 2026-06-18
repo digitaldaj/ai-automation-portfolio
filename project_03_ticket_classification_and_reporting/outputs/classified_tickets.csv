@@ -1,0 +1,9 @@
+ticket_id,created_month,description,category,classification_explanation
+T-001,2026-01,Customer needs card unlock to complete payment.,card_unlock,Matched '\bunlock\b' using documented precedence
+T-002,2026-01,EFT payment error and biller mismatch.,payment_or_billing,Matched 'payment' using documented precedence
+T-003,2026-02,High risk compliance exception needs review.,compliance_review,Matched 'compliance' using documented precedence
+T-004,2026-02,Customer requested callback after cancellation confusion.,cancellation_issue,Matched 'cancel' using documented precedence
+T-005,2026-02,"System access issue, user cannot view account.",system_access,Matched 'system access' using documented precedence
+T-006,2026-03,Unlock confirmed. Payment can now be processed.,card_unlock,Matched '\bunlock\b' using documented precedence
+T-007,2026-03,Cancellation follow-up needed with ownership review.,cancellation_issue,Matched 'cancel' using documented precedence
+T-008,2026-03,General documentation request.,other,No configured rule matched

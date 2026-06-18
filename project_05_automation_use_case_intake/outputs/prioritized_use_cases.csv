@@ -1,0 +1,6 @@
+use_case_id,title,volume_impact,manual_effort,compliance_risk,data_readiness,implementation_complexity,stakeholder_alignment,priority_score,recommendation
+UC-001,Backfill missing tracker data,5,5,4,4,3,5,4.15,Prioritize for discovery
+UC-004,Monthly report classification cleanup,4,5,3,5,2,4,3.9,Prioritize for discovery
+UC-003,Assistant for procedure lookup,5,3,4,3,4,5,3.4,Hold for refinement
+UC-002,Automated callback routing,4,4,3,3,4,4,3.0,Hold for refinement
+UC-005,Low-volume notification preference change,1,1,1,5,1,2,1.8,Do not prioritize now
